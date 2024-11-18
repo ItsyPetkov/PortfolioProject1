@@ -8,4 +8,6 @@ BASICS: SELECT, WHERE, IN, LIKE, BETWEEN, GROUP BY, ORDER BY, WildCards, CREATE/
 
 INTERMEDIATES: Various window functions including ROW_NUMBER(), RANK(), DENSE_RANK() and aggragate functions, PARTITION BY, Common Table Expressions (CTEs), Views
 
-ADVANCED: LEAD and LAG, RECURSION, TRIGGERS, STORED PROCEDURES and AUTOMATION
+ADVANCED: LEAD and LAG, RECURSION, TRIGGERS, STORED PROCEDURES and AUTOMATION, DATE, DATETIME, DATEPART(), DATEDIFF()
+
+THe database used throughout this project is the Bike Store Relational Database | SQL availalbe at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
