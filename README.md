@@ -10,4 +10,4 @@ INTERMEDIATES: Subqueries, Various window functions including ROW_NUMBER(), RANK
 
 ADVANCED: LEAD and LAG, RECURSION, TRIGGERS, STORED PROCEDURES and AUTOMATION, DATE, DATETIME, DATEPART(), DATEDIFF()
 
-THe database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
+The database used throughout this project is the Bike Store Relational Database | SQL available at https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
